@@ -1,0 +1,758 @@
+{
+  "results": [
+    {
+      "width": 320,
+      "scrollWidth": 305,
+      "height": 7869,
+      "overflow": [],
+      "brokenImages": [],
+      "badAnchors": [],
+      "headerLogos": [
+        {
+          "src": "insanlogo.jpg",
+          "width": 38,
+          "height": 38,
+          "visible": true
+        },
+        {
+          "src": "purnea_university.png",
+          "width": 116,
+          "height": 28.65625,
+          "visible": true
+        }
+      ],
+      "headerText": "Insan Degree College\nAffiliated with",
+      "h1": 1,
+      "scripts": 0,
+      "resources": [
+        {
+          "name": "styles.css",
+          "size": 22829
+        },
+        {
+          "name": "insanlogo.jpg",
+          "size": 28738
+        },
+        {
+          "name": "purnea_university.png",
+          "size": 83646
+        },
+        {
+          "name": "insaan.webp",
+          "size": 80864
+        },
+        {
+          "name": "gallery1.webp",
+          "size": 6846
+        },
+        {
+          "name": "gallery2.webp",
+          "size": 7202
+        },
+        {
+          "name": "insan_phil.webp",
+          "size": 80396
+        },
+        {
+          "name": "gallery3.webp",
+          "size": 76072
+        },
+        {
+          "name": "gallery4.webp",
+          "size": 21218
+        },
+        {
+          "name": "gallery5.webp",
+          "size": 33828
+        },
+        {
+          "name": "gallery6.webp",
+          "size": 40220
+        }
+      ],
+      "fontMin": 11.2,
+      "keyboardCourse": true,
+      "keyboardMenu": true,
+      "openMenuOverflow": false
+    },
+    {
+      "width": 390,
+      "scrollWidth": 375,
+      "height": 7098,
+      "overflow": [],
+      "brokenImages": [],
+      "badAnchors": [],
+      "headerLogos": [
+        {
+          "src": "insanlogo.jpg",
+          "width": 46,
+          "height": 46,
+          "visible": true
+        },
+        {
+          "src": "purnea_university.png",
+          "width": 130,
+          "height": 32.109375,
+          "visible": true
+        }
+      ],
+      "headerText": "Insan Degree College\nAffiliated with",
+      "h1": 1,
+      "scripts": 0,
+      "resources": [
+        {
+          "name": "styles.css",
+          "size": 22829
+        },
+        {
+          "name": "insanlogo.jpg",
+          "size": 28738
+        },
+        {
+          "name": "purnea_university.png",
+          "size": 83646
+        },
+        {
+          "name": "insaan.webp",
+          "size": 80864
+        },
+        {
+          "name": "gallery1.webp",
+          "size": 6846
+        },
+        {
+          "name": "gallery2.webp",
+          "size": 7202
+        },
+        {
+          "name": "insan_phil.webp",
+          "size": 80396
+        },
+        {
+          "name": "gallery3.webp",
+          "size": 76072
+        },
+        {
+          "name": "gallery4.webp",
+          "size": 21218
+        },
+        {
+          "name": "gallery5.webp",
+          "size": 33828
+        },
+        {
+          "name": "gallery6.webp",
+          "size": 40220
+        }
+      ],
+      "fontMin": 12,
+      "keyboardCourse": true,
+      "keyboardMenu": true,
+      "openMenuOverflow": false
+    },
+    {
+      "width": 520,
+      "scrollWidth": 505,
+      "height": 6729,
+      "overflow": [],
+      "brokenImages": [],
+      "badAnchors": [],
+      "headerLogos": [
+        {
+          "src": "insanlogo.jpg",
+          "width": 46,
+          "height": 46,
+          "visible": true
+        },
+        {
+          "src": "purnea_university.png",
+          "width": 130,
+          "height": 32.109375,
+          "visible": true
+        }
+      ],
+      "headerText": "Insan Degree College\nAffiliated with",
+      "h1": 1,
+      "scripts": 0,
+      "resources": [
+        {
+          "name": "styles.css",
+          "size": 22829
+        },
+        {
+          "name": "insanlogo.jpg",
+          "size": 28738
+        },
+        {
+          "name": "purnea_university.png",
+          "size": 83646
+        },
+        {
+          "name": "insaan.webp",
+          "size": 80864
+        },
+        {
+          "name": "gallery1.webp",
+          "size": 6846
+        },
+        {
+          "name": "gallery2.webp",
+          "size": 7202
+        },
+        {
+          "name": "insan_phil.webp",
+          "size": 80396
+        },
+        {
+          "name": "gallery3.webp",
+          "size": 76072
+        },
+        {
+          "name": "gallery4.webp",
+          "size": 21218
+        },
+        {
+          "name": "gallery5.webp",
+          "size": 33828
+        },
+        {
+          "name": "gallery6.webp",
+          "size": 40220
+        }
+      ],
+      "fontMin": 12,
+      "keyboardCourse": true,
+      "keyboardMenu": true,
+      "openMenuOverflow": false
+    },
+    {
+      "width": 760,
+      "scrollWidth": 745,
+      "height": 6876,
+      "overflow": [],
+      "brokenImages": [],
+      "badAnchors": [],
+      "headerLogos": [
+        {
+          "src": "insanlogo.jpg",
+          "width": 60,
+          "height": 60,
+          "visible": true
+        },
+        {
+          "src": "purnea_university.png",
+          "width": 190,
+          "height": 46.9375,
+          "visible": true
+        }
+      ],
+      "headerText": "Insan Degree College\nAffiliated with",
+      "h1": 1,
+      "scripts": 0,
+      "resources": [
+        {
+          "name": "styles.css",
+          "size": 22829
+        },
+        {
+          "name": "insanlogo.jpg",
+          "size": 28738
+        },
+        {
+          "name": "purnea_university.png",
+          "size": 83646
+        },
+        {
+          "name": "insaan.webp",
+          "size": 80864
+        },
+        {
+          "name": "gallery1.webp",
+          "size": 6846
+        },
+        {
+          "name": "gallery2.webp",
+          "size": 7202
+        },
+        {
+          "name": "insan_phil.webp",
+          "size": 80396
+        },
+        {
+          "name": "gallery3.webp",
+          "size": 76072
+        },
+        {
+          "name": "gallery4.webp",
+          "size": 21218
+        },
+        {
+          "name": "gallery5.webp",
+          "size": 33828
+        },
+        {
+          "name": "gallery6.webp",
+          "size": 40220
+        }
+      ],
+      "fontMin": 12,
+      "keyboardCourse": true,
+      "keyboardMenu": true,
+      "openMenuOverflow": false
+    },
+    {
+      "width": 768,
+      "scrollWidth": 753,
+      "height": 4928,
+      "overflow": [],
+      "brokenImages": [],
+      "badAnchors": [],
+      "headerLogos": [
+        {
+          "src": "insanlogo.jpg",
+          "width": 74,
+          "height": 74,
+          "visible": true
+        },
+        {
+          "src": "purnea_university.png",
+          "width": 230,
+          "height": 56.8125,
+          "visible": true
+        }
+      ],
+      "headerText": "Insan Degree College\nAffiliated with",
+      "h1": 1,
+      "scripts": 0,
+      "resources": [
+        {
+          "name": "styles.css",
+          "size": 22829
+        },
+        {
+          "name": "insanlogo.jpg",
+          "size": 28738
+        },
+        {
+          "name": "purnea_university.png",
+          "size": 83646
+        },
+        {
+          "name": "insaan.webp",
+          "size": 80864
+        },
+        {
+          "name": "gallery1.webp",
+          "size": 6846
+        },
+        {
+          "name": "gallery2.webp",
+          "size": 7202
+        },
+        {
+          "name": "insan_phil.webp",
+          "size": 80396
+        },
+        {
+          "name": "gallery3.webp",
+          "size": 76072
+        },
+        {
+          "name": "gallery4.webp",
+          "size": 21218
+        },
+        {
+          "name": "gallery5.webp",
+          "size": 33828
+        },
+        {
+          "name": "gallery6.webp",
+          "size": 40220
+        }
+      ],
+      "fontMin": 12,
+      "keyboardCourse": true,
+      "keyboardMenu": true,
+      "openMenuOverflow": false
+    },
+    {
+      "width": 1023,
+      "scrollWidth": 1008,
+      "height": 4818,
+      "overflow": [],
+      "brokenImages": [],
+      "badAnchors": [],
+      "headerLogos": [
+        {
+          "src": "insanlogo.jpg",
+          "width": 74,
+          "height": 74,
+          "visible": true
+        },
+        {
+          "src": "purnea_university.png",
+          "width": 230,
+          "height": 56.8125,
+          "visible": true
+        }
+      ],
+      "headerText": "Insan Degree College\nAffiliated with",
+      "h1": 1,
+      "scripts": 0,
+      "resources": [
+        {
+          "name": "styles.css",
+          "size": 22829
+        },
+        {
+          "name": "insanlogo.jpg",
+          "size": 28738
+        },
+        {
+          "name": "purnea_university.png",
+          "size": 83646
+        },
+        {
+          "name": "insaan.webp",
+          "size": 80864
+        },
+        {
+          "name": "gallery1.webp",
+          "size": 6846
+        },
+        {
+          "name": "gallery2.webp",
+          "size": 7202
+        },
+        {
+          "name": "insan_phil.webp",
+          "size": 80396
+        },
+        {
+          "name": "gallery3.webp",
+          "size": 76072
+        },
+        {
+          "name": "gallery4.webp",
+          "size": 21218
+        },
+        {
+          "name": "gallery5.webp",
+          "size": 33828
+        },
+        {
+          "name": "gallery6.webp",
+          "size": 40220
+        }
+      ],
+      "fontMin": 12,
+      "keyboardCourse": true,
+      "keyboardMenu": true,
+      "openMenuOverflow": false
+    },
+    {
+      "width": 1024,
+      "scrollWidth": 1009,
+      "height": 4834,
+      "overflow": [],
+      "brokenImages": [],
+      "badAnchors": [],
+      "headerLogos": [
+        {
+          "src": "insanlogo.jpg",
+          "width": 74,
+          "height": 74,
+          "visible": true
+        },
+        {
+          "src": "purnea_university.png",
+          "width": 230,
+          "height": 56.8125,
+          "visible": true
+        }
+      ],
+      "headerText": "Insan Degree College\nAffiliated with",
+      "h1": 1,
+      "scripts": 0,
+      "resources": [
+        {
+          "name": "styles.css",
+          "size": 22829
+        },
+        {
+          "name": "insanlogo.jpg",
+          "size": 28738
+        },
+        {
+          "name": "purnea_university.png",
+          "size": 83646
+        },
+        {
+          "name": "insaan.webp",
+          "size": 80864
+        },
+        {
+          "name": "gallery1.webp",
+          "size": 6846
+        },
+        {
+          "name": "gallery2.webp",
+          "size": 7202
+        },
+        {
+          "name": "insan_phil.webp",
+          "size": 80396
+        },
+        {
+          "name": "gallery3.webp",
+          "size": 76072
+        },
+        {
+          "name": "gallery4.webp",
+          "size": 21218
+        },
+        {
+          "name": "gallery5.webp",
+          "size": 33828
+        },
+        {
+          "name": "gallery6.webp",
+          "size": 40220
+        }
+      ],
+      "fontMin": 12,
+      "keyboardCourse": true
+    },
+    {
+      "width": 1280,
+      "scrollWidth": 1265,
+      "height": 5278,
+      "overflow": [],
+      "brokenImages": [],
+      "badAnchors": [],
+      "headerLogos": [
+        {
+          "src": "insanlogo.jpg",
+          "width": 88,
+          "height": 88,
+          "visible": true
+        },
+        {
+          "src": "purnea_university.png",
+          "width": 270,
+          "height": 66.703125,
+          "visible": true
+        }
+      ],
+      "headerText": "Insan Degree College\nAffiliated with",
+      "h1": 1,
+      "scripts": 0,
+      "resources": [
+        {
+          "name": "styles.css",
+          "size": 22829
+        },
+        {
+          "name": "insanlogo.jpg",
+          "size": 28738
+        },
+        {
+          "name": "purnea_university.png",
+          "size": 83646
+        },
+        {
+          "name": "insaan.webp",
+          "size": 80864
+        },
+        {
+          "name": "gallery1.webp",
+          "size": 6846
+        },
+        {
+          "name": "gallery2.webp",
+          "size": 7202
+        },
+        {
+          "name": "insan_phil.webp",
+          "size": 80396
+        },
+        {
+          "name": "gallery3.webp",
+          "size": 76072
+        },
+        {
+          "name": "gallery4.webp",
+          "size": 21218
+        },
+        {
+          "name": "gallery5.webp",
+          "size": 33828
+        },
+        {
+          "name": "gallery6.webp",
+          "size": 40220
+        }
+      ],
+      "fontMin": 12,
+      "keyboardCourse": true
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1425,
+      "height": 5429,
+      "overflow": [],
+      "brokenImages": [],
+      "badAnchors": [],
+      "headerLogos": [
+        {
+          "src": "insanlogo.jpg",
+          "width": 88,
+          "height": 88,
+          "visible": true
+        },
+        {
+          "src": "purnea_university.png",
+          "width": 270,
+          "height": 66.703125,
+          "visible": true
+        }
+      ],
+      "headerText": "Insan Degree College\nAffiliated with",
+      "h1": 1,
+      "scripts": 0,
+      "resources": [
+        {
+          "name": "styles.css",
+          "size": 22829
+        },
+        {
+          "name": "insanlogo.jpg",
+          "size": 28738
+        },
+        {
+          "name": "purnea_university.png",
+          "size": 83646
+        },
+        {
+          "name": "insaan.webp",
+          "size": 80864
+        },
+        {
+          "name": "gallery1.webp",
+          "size": 6846
+        },
+        {
+          "name": "gallery2.webp",
+          "size": 7202
+        },
+        {
+          "name": "insan_phil.webp",
+          "size": 80396
+        },
+        {
+          "name": "gallery3.webp",
+          "size": 76072
+        },
+        {
+          "name": "gallery4.webp",
+          "size": 21218
+        },
+        {
+          "name": "gallery5.webp",
+          "size": 33828
+        },
+        {
+          "name": "gallery6.webp",
+          "size": 40220
+        }
+      ],
+      "fontMin": 12,
+      "keyboardCourse": true
+    },
+    {
+      "width": 1920,
+      "scrollWidth": 1905,
+      "height": 5469,
+      "overflow": [],
+      "brokenImages": [],
+      "badAnchors": [],
+      "headerLogos": [
+        {
+          "src": "insanlogo.jpg",
+          "width": 88,
+          "height": 88,
+          "visible": true
+        },
+        {
+          "src": "purnea_university.png",
+          "width": 270,
+          "height": 66.703125,
+          "visible": true
+        }
+      ],
+      "headerText": "Insan Degree College\nAffiliated with",
+      "h1": 1,
+      "scripts": 0,
+      "resources": [
+        {
+          "name": "styles.css",
+          "size": 22829
+        },
+        {
+          "name": "insanlogo.jpg",
+          "size": 28738
+        },
+        {
+          "name": "purnea_university.png",
+          "size": 83646
+        },
+        {
+          "name": "insaan.webp",
+          "size": 80864
+        },
+        {
+          "name": "gallery1.webp",
+          "size": 6846
+        },
+        {
+          "name": "gallery2.webp",
+          "size": 7202
+        },
+        {
+          "name": "insan_phil.webp",
+          "size": 80396
+        },
+        {
+          "name": "gallery3.webp",
+          "size": 76072
+        },
+        {
+          "name": "gallery4.webp",
+          "size": 21218
+        },
+        {
+          "name": "gallery5.webp",
+          "size": 33828
+        },
+        {
+          "name": "gallery6.webp",
+          "size": 40220
+        }
+      ],
+      "fontMin": 12,
+      "keyboardCourse": true
+    }
+  ],
+  "failures": [],
+  "reducedMotion": "auto",
+  "darkFocus": [
+    {
+      "text": "Explore the college",
+      "outline": "rgb(255, 255, 255)"
+    },
+    {
+      "text": "View the original poster",
+      "outline": "rgb(239, 176, 121)"
+    }
+  ]
+}

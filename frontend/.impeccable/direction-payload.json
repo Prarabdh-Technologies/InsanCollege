@@ -1,0 +1,109 @@
+{
+  "title": "Choose the visual world for the Insaan homepage",
+  "question": "The roll assigned the Fee-Receipt Book. Keep it, take an alternate, or re-roll. Palette is pinned by the logo: black gear ring, steel-blue disc, saffron flourishes, leaf green.",
+  "options": [
+    {
+      "id": "assigned",
+      "label": "The Fee-Receipt Book",
+      "kicker": "THE ROLL",
+      "lineage": "Indian college fee-counter receipt books: carbon duplicates, perforated counterfoils, rubber stamps",
+      "thesis": "The enquiry form is a receipt you fill in and get stamped, the way every family has paid a fee at a college counter.",
+      "palette": ["#0b0b0b", "#7f9bb8", "#d86000", "#5a9a2a", "#f4f6f8"],
+      "materials": ["carbon-blue duplicate sheets", "rubber-stamp saffron ink", "perforated counterfoil", "ruled ledger columns"],
+      "viewport": "A receipt book opened flat on a carbon-blue ground: top sheet 'Enquiry No. 0001' with Name and Phone lines, English first, Hindi beneath, saffron stamp poised to say RECEIVED.",
+      "risk": "Can read as bureaucratic if the stamp and handwriting are not warm and confident.",
+      "raised": [
+        {"from": "Hand-bent neon (declined)", "raise": "One warm live element: the saffron stamp is the only warm mark on the page and only ever lands on the step the visitor is on."},
+        {"from": "Iridescent cloud edge (declined)", "raise": "Reading text stays achromatic black on white sheets; colour lives in the ground, rules, and stamps, never in body copy."},
+        {"from": "Patent drawing sheet (declined)", "raise": "Every line carries a printed serial numeral (No. 0001, Fee Sl. 03) that ties a claim to its detail page."}
+      ]
+    },
+    {
+      "id": "model-pick",
+      "label": "The Roll-Number Gazette",
+      "kicker": "IMPECCABLE’S PICK",
+      "lineage": "Board-result gazettes: newspaper columns of roll numbers printed on result day",
+      "thesis": "Result day, but for admissions: a dense newsprint page where the visitor finds their own line.",
+      "palette": ["#0b0b0b", "#f4f6f8", "#7f9bb8", "#d86000"],
+      "materials": ["newsprint columns", "hairline rules", "circled saffron highlight"],
+      "viewport": "A gazette masthead in English and Hindi, columns of programmes and seats, one entry circled in saffron.",
+      "risk": "Familiar territory: most editorial-print directions in education land here, and dense columns are hard on a phone."
+    },
+    {
+      "id": "challenger-nixie",
+      "label": "Nixie Counter",
+      "verdict": "competitive",
+      "lineage": "nixie-tube laboratory counters",
+      "thesis": "Fees, seats, and years as glowing digits in glass tubes on a black chassis.",
+      "palette": ["#0b0b0b", "#d86000", "#7f9bb8", "#8a8f94"],
+      "materials": ["orange plasma digits", "blackened steel", "clear glass"],
+      "viewport": "A bank of tubes reading the founding year 1966 in orange on black, engraved labels underneath.",
+      "case": "Holds clarity: quantities are the interface and the palette already matches the logo's black gear and orange. Loses on audience: it is not a world these families know.",
+      "risk": "Glow effects cost mid-range phones; all figures must stay real or clearly synthetic."
+    },
+    {
+      "id": "challenger-wayfinding",
+      "label": "Terminal Wayfinding",
+      "verdict": "competitive",
+      "lineage": "international airport sign systems",
+      "thesis": "The admission journey as a chain of signed decision points, one message per band.",
+      "palette": ["#0b0b0b", "#f2c500", "#f4f6f8", "#7f9bb8"],
+      "materials": ["framed sign bands", "pictograms", "monumental numerals"],
+      "viewport": "One band: 'Enquire', arrow, '2 minutes', with the next step signed beneath.",
+      "case": "Holds clarity: phones collapse to the single next decision. Fights the logo palette: yellow is not a brand colour here.",
+      "risk": "Yellow would need translating to saffron, which softens the world's signature."
+    },
+    {
+      "id": "challenger-neon",
+      "label": "Neon Circuit",
+      "verdict": "declined",
+      "lineage": "hand-bent neon signs",
+      "palette": ["#0a0a14", "#2a6bff", "#d8402c"],
+      "materials": ["glass tube", "gas glow"],
+      "case": "Loses both: unfamiliar to the audience and a dark room hides fees and eligibility.",
+      "kept": "One live element lit against everything else."
+    },
+    {
+      "id": "challenger-cloud",
+      "label": "Iridescent Cloud Edge",
+      "verdict": "declined",
+      "lineage": "cloud-edge diffraction",
+      "palette": ["#f4f6f8", "#4a5560", "#9be3c8", "#c78ad8"],
+      "materials": ["white ground", "hairline colour bands"],
+      "case": "Loses both: pastel iridescence has no link to a 1966 college's identity.",
+      "kept": "Achromatic text field with colour confined to edges."
+    },
+    {
+      "id": "challenger-algorave",
+      "label": "Algorave Source Floor",
+      "verdict": "declined",
+      "lineage": "live-coding algoraves",
+      "palette": ["#050505", "#39ff88", "#ff2bd6"],
+      "materials": ["projector black", "monospace code"],
+      "case": "Loses both: parents and first-generation applicants do not read code.",
+      "kept": "The active line is always visibly the live one."
+    },
+    {
+      "id": "challenger-patent",
+      "label": "Patent Drawing Sheet",
+      "verdict": "declined",
+      "lineage": "utility patent drawings",
+      "palette": ["#f4f6f8", "#0b0b0b", "#b0203a"],
+      "materials": ["india ink line", "section hatching"],
+      "case": "Loses both: exploded technical views explain a machine, not a college.",
+      "kept": "Numbered references tying every claim to its detail."
+    }
+  ],
+  "reroll": { "registers": ["safer", "bolder"] },
+  "buildPath": { "value": "code", "toggle": false },
+  "canon": true,
+  "canonCard": {
+    "label": "The category standard",
+    "thesis": "A clean college homepage: hero, programs, admissions CTA, done at full craft.",
+    "palette": ["#ffffff", "#0b0b0b", "#7f9bb8", "#d86000"],
+    "materials": ["clean grid", "campus photography"],
+    "viewport": "Logo, nav, campus photo hero, Enquire button, program cards below.",
+    "risk": "Indistinguishable from every neighbouring college by design."
+  },
+  "steer": true
+}

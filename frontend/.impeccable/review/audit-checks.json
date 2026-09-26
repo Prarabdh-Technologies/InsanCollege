@@ -1,0 +1,301 @@
+{
+  "layout": [
+    {
+      "theme": "light",
+      "width": 320,
+      "overflow": false,
+      "headerHeight": 126,
+      "logos": [
+        36,
+        110
+      ],
+      "brokenImages": [],
+      "badAnchors": [],
+      "posterRatio": 0.75,
+      "hasOldSentence": false,
+      "formLabelCount": 5,
+      "reducedMotionPause": "Play",
+      "height": 9462,
+      "h1": 1,
+      "structuredData": "CollegeOrUniversity",
+      "keyboardMenu": true,
+      "menuOverflow": false
+    },
+    {
+      "theme": "light",
+      "width": 390,
+      "overflow": false,
+      "headerHeight": 126.1875,
+      "logos": [
+        42,
+        125
+      ],
+      "brokenImages": [],
+      "badAnchors": [],
+      "posterRatio": 0.7500174910795494,
+      "hasOldSentence": false,
+      "formLabelCount": 5,
+      "reducedMotionPause": "Play",
+      "height": 8538,
+      "h1": 1,
+      "structuredData": "CollegeOrUniversity",
+      "keyboardMenu": true,
+      "menuOverflow": false
+    },
+    {
+      "theme": "light",
+      "width": 768,
+      "overflow": false,
+      "headerHeight": 132,
+      "logos": [
+        56,
+        210
+      ],
+      "brokenImages": [],
+      "badAnchors": [],
+      "posterRatio": 0.7500113486767442,
+      "hasOldSentence": false,
+      "formLabelCount": 5,
+      "reducedMotionPause": "Play",
+      "height": 5419,
+      "h1": 1,
+      "structuredData": "CollegeOrUniversity",
+      "keyboardMenu": true,
+      "menuOverflow": false
+    },
+    {
+      "theme": "light",
+      "width": 1024,
+      "overflow": false,
+      "headerHeight": 132,
+      "logos": [
+        56,
+        210
+      ],
+      "brokenImages": [],
+      "badAnchors": [],
+      "posterRatio": 0.75000815261699,
+      "hasOldSentence": false,
+      "formLabelCount": 5,
+      "reducedMotionPause": "Play",
+      "height": 5330,
+      "h1": 1,
+      "structuredData": "CollegeOrUniversity"
+    },
+    {
+      "theme": "light",
+      "width": 1440,
+      "overflow": false,
+      "headerHeight": 132,
+      "logos": [
+        56,
+        210
+      ],
+      "brokenImages": [],
+      "badAnchors": [],
+      "posterRatio": 0.75,
+      "hasOldSentence": false,
+      "formLabelCount": 5,
+      "reducedMotionPause": "Play",
+      "height": 5857,
+      "h1": 1,
+      "structuredData": "CollegeOrUniversity"
+    },
+    {
+      "theme": "light",
+      "width": 1920,
+      "overflow": false,
+      "headerHeight": 132,
+      "logos": [
+        56,
+        210
+      ],
+      "brokenImages": [],
+      "badAnchors": [],
+      "posterRatio": 0.75,
+      "hasOldSentence": false,
+      "formLabelCount": 5,
+      "reducedMotionPause": "Play",
+      "height": 5897,
+      "h1": 1,
+      "structuredData": "CollegeOrUniversity"
+    },
+    {
+      "theme": "dark",
+      "width": 320,
+      "overflow": false,
+      "headerHeight": 126,
+      "logos": [
+        36,
+        110
+      ],
+      "brokenImages": [],
+      "badAnchors": [],
+      "posterRatio": 0.75,
+      "hasOldSentence": false,
+      "formLabelCount": 5,
+      "reducedMotionPause": "Play",
+      "height": 9462,
+      "h1": 1,
+      "structuredData": "CollegeOrUniversity",
+      "keyboardMenu": true,
+      "menuOverflow": false
+    },
+    {
+      "theme": "dark",
+      "width": 390,
+      "overflow": false,
+      "headerHeight": 126.1875,
+      "logos": [
+        42,
+        125
+      ],
+      "brokenImages": [],
+      "badAnchors": [],
+      "posterRatio": 0.7500174910795494,
+      "hasOldSentence": false,
+      "formLabelCount": 5,
+      "reducedMotionPause": "Play",
+      "height": 8538,
+      "h1": 1,
+      "structuredData": "CollegeOrUniversity",
+      "keyboardMenu": true,
+      "menuOverflow": false
+    },
+    {
+      "theme": "dark",
+      "width": 768,
+      "overflow": false,
+      "headerHeight": 132,
+      "logos": [
+        56,
+        210
+      ],
+      "brokenImages": [],
+      "badAnchors": [],
+      "posterRatio": 0.7500113486767442,
+      "hasOldSentence": false,
+      "formLabelCount": 5,
+      "reducedMotionPause": "Play",
+      "height": 5419,
+      "h1": 1,
+      "structuredData": "CollegeOrUniversity",
+      "keyboardMenu": true,
+      "menuOverflow": false
+    },
+    {
+      "theme": "dark",
+      "width": 1024,
+      "overflow": false,
+      "headerHeight": 132,
+      "logos": [
+        56,
+        210
+      ],
+      "brokenImages": [],
+      "badAnchors": [],
+      "posterRatio": 0.75000815261699,
+      "hasOldSentence": false,
+      "formLabelCount": 5,
+      "reducedMotionPause": "Play",
+      "height": 5330,
+      "h1": 1,
+      "structuredData": "CollegeOrUniversity"
+    },
+    {
+      "theme": "dark",
+      "width": 1440,
+      "overflow": false,
+      "headerHeight": 132,
+      "logos": [
+        56,
+        210
+      ],
+      "brokenImages": [],
+      "badAnchors": [],
+      "posterRatio": 0.75,
+      "hasOldSentence": false,
+      "formLabelCount": 5,
+      "reducedMotionPause": "Play",
+      "height": 5857,
+      "h1": 1,
+      "structuredData": "CollegeOrUniversity"
+    },
+    {
+      "theme": "dark",
+      "width": 1920,
+      "overflow": false,
+      "headerHeight": 132,
+      "logos": [
+        56,
+        210
+      ],
+      "brokenImages": [],
+      "badAnchors": [],
+      "posterRatio": 0.75,
+      "hasOldSentence": false,
+      "formLabelCount": 5,
+      "reducedMotionPause": "Play",
+      "height": 5897,
+      "h1": 1,
+      "structuredData": "CollegeOrUniversity"
+    }
+  ],
+  "interaction": {
+    "systemDark": true,
+    "switchLight": true,
+    "themePersists": true,
+    "nextNotice": true,
+    "previousNotice": true,
+    "invalidEmptyForm": true,
+    "invalidEmail": true,
+    "whitespaceRejected": true,
+    "safeDraft": {
+      "visible": true,
+      "noInjectedImage": true,
+      "literalText": true,
+      "recipient": true,
+      "encoded": true,
+      "focus": true
+    },
+    "staleDraftCleared": true,
+    "cspBlocksInline": true,
+    "pdfLinks": [
+      {
+        "blocked": true
+      },
+      {
+        "blocked": true
+      }
+    ],
+    "mapFrame": [
+      ""
+    ],
+    "autoMoves": true,
+    "pauseStops": true,
+    "noJS": {
+      "formAction": "mailto:contact@insandegreecollege.co.in",
+      "noticeLinks": 2,
+      "themeHidden": true
+    }
+  },
+  "pdfResponses": [
+    {
+      "path": "notice.pdf",
+      "status": 200,
+      "type": "application/pdf"
+    },
+    {
+      "path": "notice1.pdf",
+      "status": 200,
+      "type": "application/pdf"
+    }
+  ],
+  "exceptions": [],
+  "mapVisualVerification": {
+    "result": "Map tiles and exact-coordinate pin displayed after scrolling into view",
+    "documentHTTPStatus": 200,
+    "screenshot": "map-viewport.png",
+    "note": "Cross-origin out-of-process iframe is not painted by the full-page capture while offscreen; see dedicated viewport evidence."
+  }
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "text": "Explore the college",
+    "outline": "rgb(239, 176, 121)",
+    "focusVisible": true
+  },
+  {
+    "text": "View information",
+    "outline": "rgb(168, 71, 34)",
+    "focusVisible": true
+  },
+  {
+    "text": "View the original poster",
+    "outline": "rgb(239, 176, 121)",
+    "focusVisible": true
+  }
+]

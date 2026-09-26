@@ -1,0 +1,110 @@
+[
+  {
+    "theme": "light",
+    "foreground": "#173954",
+    "background": "#ffffff",
+    "ratio": 12.0
+  },
+  {
+    "theme": "light",
+    "foreground": "#173954",
+    "background": "#f2f5f7",
+    "ratio": 10.96
+  },
+  {
+    "theme": "light",
+    "foreground": "#173954",
+    "background": "#f6f0e7",
+    "ratio": 10.59
+  },
+  {
+    "theme": "light",
+    "foreground": "#52616c",
+    "background": "#ffffff",
+    "ratio": 6.39
+  },
+  {
+    "theme": "light",
+    "foreground": "#52616c",
+    "background": "#f2f5f7",
+    "ratio": 5.84
+  },
+  {
+    "theme": "light",
+    "foreground": "#52616c",
+    "background": "#f6f0e7",
+    "ratio": 5.64
+  },
+  {
+    "theme": "light",
+    "foreground": "#a84722",
+    "background": "#ffffff",
+    "ratio": 5.85
+  },
+  {
+    "theme": "light",
+    "foreground": "#a84722",
+    "background": "#f2f5f7",
+    "ratio": 5.34
+  },
+  {
+    "theme": "light",
+    "foreground": "#a84722",
+    "background": "#f6f0e7",
+    "ratio": 5.16
+  },
+  {
+    "theme": "dark",
+    "foreground": "#e4eef4",
+    "background": "#0f1b26",
+    "ratio": 14.8
+  },
+  {
+    "theme": "dark",
+    "foreground": "#e4eef4",
+    "background": "#192d3c",
+    "ratio": 12.03
+  },
+  {
+    "theme": "dark",
+    "foreground": "#e4eef4",
+    "background": "#292720",
+    "ratio": 12.69
+  },
+  {
+    "theme": "dark",
+    "foreground": "#b7c9d5",
+    "background": "#0f1b26",
+    "ratio": 10.23
+  },
+  {
+    "theme": "dark",
+    "foreground": "#b7c9d5",
+    "background": "#192d3c",
+    "ratio": 8.32
+  },
+  {
+    "theme": "dark",
+    "foreground": "#b7c9d5",
+    "background": "#292720",
+    "ratio": 8.77
+  },
+  {
+    "theme": "dark",
+    "foreground": "#ffbc91",
+    "background": "#0f1b26",
+    "ratio": 10.67
+  },
+  {
+    "theme": "dark",
+    "foreground": "#ffbc91",
+    "background": "#192d3c",
+    "ratio": 8.67
+  },
+  {
+    "theme": "dark",
+    "foreground": "#ffbc91",
+    "background": "#292720",
+    "ratio": 9.15
+  }
+]

@@ -1,0 +1,6 @@
+/*
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'sha256-q9kMim4kixJqS+JMAjfcobecsDoqXUZ8PleJcaRVr90='; style-src 'self'; img-src 'self'; font-src 'self'; frame-src https://www.google.com; connect-src 'none'; object-src 'none'; base-uri 'none'; form-action mailto:; frame-ancestors 'none'
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()

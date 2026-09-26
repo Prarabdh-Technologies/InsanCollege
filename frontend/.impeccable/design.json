@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-09-26T08:27:13.640848+00:00",
+  "title": "Design System: Insan Degree College",
+  "extensions": {
+    "colorMeta": {
+      "paper": {
+        "displayName": "Paper",
+        "role": "neutral"
+      },
+      "surface": {
+        "displayName": "Surface",
+        "role": "neutral"
+      },
+      "ink": {
+        "displayName": "Ink",
+        "role": "primary"
+      },
+      "muted": {
+        "displayName": "Muted",
+        "role": "neutral"
+      },
+      "accent": {
+        "displayName": "Accent",
+        "role": "primary"
+      },
+      "action": {
+        "displayName": "Action",
+        "role": "primary"
+      },
+      "green": {
+        "displayName": "Green",
+        "role": "primary"
+      },
+      "line": {
+        "displayName": "Line",
+        "role": "neutral"
+      },
+      "input-line": {
+        "displayName": "Input Line",
+        "role": "neutral"
+      },
+      "panel": {
+        "displayName": "Panel",
+        "role": "neutral"
+      },
+      "warm": {
+        "displayName": "Warm",
+        "role": "neutral"
+      },
+      "warm-line": {
+        "displayName": "Warm Line",
+        "role": "neutral"
+      },
+      "navy": {
+        "displayName": "Navy",
+        "role": "primary"
+      },
+      "focus": {
+        "displayName": "Focus",
+        "role": "primary"
+      },
+      "error": {
+        "displayName": "Error",
+        "role": "primary"
+      }
+    },
+    "shadows": [
+      {
+        "name": "new-notice-ring",
+        "value": "0 0 0 3px var(--warm)",
+        "purpose": "Brief New badge pulse, not structural elevation."
+      }
+    ],
+    "motion": [
+      {
+        "name": "hero-arrival",
+        "value": "arrive .6s cubic-bezier(.16,1,.3,1)",
+        "purpose": "Opacity .8 to 1; translateY 8px to 0."
+      },
+      {
+        "name": "new-notice",
+        "value": "new-notice 1.5s ease-in-out 2",
+        "purpose": "Two badge pulses."
+      },
+      {
+        "name": "gallery-hover",
+        "value": "transform .45s cubic-bezier(.16,1,.3,1)",
+        "purpose": "Scale to 1.025."
+      },
+      {
+        "name": "notification-interval",
+        "value": "8000ms",
+        "purpose": "Suspended on hover, focus, hidden tab, or pause; reduced motion starts paused."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "animation:none;transition:none;scroll-behavior:auto",
+        "purpose": "CSS reduced-motion override."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "compact-desktop-max",
+        "value": "1100px"
+      },
+      {
+        "name": "mobile-navigation-max",
+        "value": "1023px"
+      },
+      {
+        "name": "stacked-layout-max",
+        "value": "760px"
+      },
+      {
+        "name": "stacked-form-max",
+        "value": "520px"
+      },
+      {
+        "name": "narrow-phone-max",
+        "value": "380px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary action",
+      "kind": "button",
+      "html": "<button class=\"ds-button\" type=\"button\">Prepare enquiry</button>",
+      "css": ".ds-button{display:inline-flex;align-items:center;justify-content:center;gap:18px;min-height:48px;padding:13px 20px;background:var(--action,#a84722);color:#fff;border:1px solid var(--action,#a84722);font:.9rem/1.65 var(--sans,Arial,sans-serif);cursor:pointer;transition:background-color .2s,box-shadow .2s}.ds-button:hover{background:#80351a;border-color:#80351a}.ds-button:focus-visible{outline:3px solid var(--focus,#a84722);outline-offset:4px}@media(prefers-reduced-motion:reduce){.ds-button{transition:none}}",
+      "description": "Primary form/action styling; preview does not submit.",
+      "refersTo": "button-primary"
+    },
+    {
+      "name": "Academic navigation",
+      "kind": "nav",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Main navigation\"><a href=\"#\">Home</a><a href=\"#courses\">Academics</a><a href=\"#admissions\">Admissions</a><a href=\"#contact\">Contact</a></nav>",
+      "css": ".ds-nav{display:flex;justify-content:space-between;background:var(--navy,#173954);color:#fff;font:.83rem/1.65 var(--sans,Arial,sans-serif)}.ds-nav a{display:flex;align-items:center;padding:11px 12px;min-height:44px;color:inherit;text-decoration:none}.ds-nav a:hover{background:#294e6a;color:#fff}.ds-nav a:focus-visible{outline:3px solid #efb079;outline-offset:-4px}",
+      "description": "Compact navy navigation; no permanent Home highlight.",
+      "refersTo": "navigation"
+    },
+    {
+      "name": "Enquiry field",
+      "kind": "input",
+      "html": "<div class=\"ds-field\"><label for=\"ds-name\">Full name <span>(required)</span></label><input id=\"ds-name\" autocomplete=\"name\" maxlength=\"100\" required></div>",
+      "css": ".ds-field{color:var(--ink,#173954);font-family:var(--sans,Arial,sans-serif)}.ds-field label{display:block;margin-bottom:7px;font-size:.88rem;font-weight:600}.ds-field label span{font-size:.75rem;font-weight:400;color:var(--muted,#52616c)}.ds-field input{width:100%;min-width:0;min-height:46px;border:1px solid var(--input-line,#768a98);border-radius:3px;padding:10px 12px;background:var(--surface,#fff);color:var(--ink,#173954);font-size:1rem;caret-color:var(--accent,#a84722)}.ds-field input:focus-visible{outline:3px solid var(--focus,#a84722);outline-offset:4px}.ds-field input:user-invalid{border-color:var(--error,#af2828)}",
+      "description": "Explicit required label and semantic theme styling.",
+      "refersTo": "input"
+    },
+    {
+      "name": "Notification states",
+      "kind": "chip",
+      "html": "<span class=\"ds-badge ds-new\">New</span> <span class=\"ds-badge ds-earlier\">Earlier</span>",
+      "css": ".ds-badge{display:inline-block;font:700 .72rem/1.5 var(--sans,Arial,sans-serif);padding:3px 9px;border:1px solid currentColor;border-radius:3px}.ds-new{color:var(--accent,#a84722);animation:ds-pulse 1.5s ease-in-out 2}.ds-earlier{color:var(--muted,#52616c)}@keyframes ds-pulse{50%{box-shadow:0 0 0 3px var(--warm,#f6f0e7)}}@media(prefers-reduced-motion:reduce){.ds-new{animation:none}}",
+      "description": "Noninteractive publication states; Earlier does not mean expired.",
+      "refersTo": "notice-badge"
+    },
+    {
+      "name": "Photo caption",
+      "kind": "custom",
+      "html": "<div class=\"ds-caption\"><h1>Education for self-reliance.</h1><p>Learning, community, and humanity at the heart of college life.</p></div>",
+      "css": ".ds-caption{background:var(--navy,#173954);color:#fff;padding:22px 26px}.ds-caption h1{margin:0;font:400 clamp(1.85rem,2.65vw,2.7rem)/1.2 var(--serif,Georgia,serif);letter-spacing:-.025em}.ds-caption p{margin:8px 0 0;color:#d1e1e8;font:.9rem/1.65 var(--sans,Arial,sans-serif)}",
+      "description": "Caption styling; original campus image intentionally omitted from preview.",
+      "refersTo": "photo-caption"
+    },
+    {
+      "name": "Native disclosure",
+      "kind": "custom",
+      "html": "<details class=\"ds-disclosure\"><summary>Where can I find the current fees?</summary><p>Please contact the admissions office for current course fees.</p></details>",
+      "css": ".ds-disclosure{padding:22px 0;border-bottom:1px solid var(--warm-line,#dfd0ba);color:var(--ink,#173954);font:.96rem/1.65 var(--sans,Arial,sans-serif)}.ds-disclosure summary{cursor:pointer}.ds-disclosure summary:hover{color:var(--accent,#a84722)}.ds-disclosure summary:focus-visible{outline:3px solid var(--focus,#a84722);outline-offset:4px}.ds-disclosure p{padding-top:16px;color:var(--muted,#52616c);font-size:.9rem}",
+      "description": "Native independently expandable admissions answer."
+    }
+  ],
+  "narrative": {
+    "northStar": "The community\u2019s academic institution",
+    "overview": "Compact dual-logo academic identity, navy navigation, authentic photography, and practical university notifications. Semantic light/dark themes support text, fields, and surfaces. A small local script adds theme selection, pausable notification movement, and unsent email-draft preparation without dependencies.",
+    "keyCharacteristics": [
+      "Compact identity and navigation",
+      "Semantic light/dark themes",
+      "Original PDF notifications",
+      "Full inline philosophy poster",
+      "Locally prepared unsent enquiry draft"
+    ],
+    "rules": [
+      {
+        "name": "The Theme Role Rule",
+        "body": "Use semantic colors. Keep navy bands and white logo backing stable, and retain the action color under white button text.",
+        "section": "colors"
+      }
+    ],
+    "dos": [
+      "Do preserve original logos and approved assets.",
+      "Do label fields and keep notifications pausable.",
+      "Do require the visitor to review and send the email draft."
+    ],
+    "donts": [
+      "Do not add location or founding date to the masthead.",
+      "Do not describe Earlier notices as expired.",
+      "Do not invent notices or institutional claims.",
+      "Do not add third-party scripts or font downloads."
+    ]
+  }
+}
